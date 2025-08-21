@@ -286,10 +286,10 @@ footer {
     margin: 2rem;
 }
 .links {
-    margin: 1rem 2rem 3rem 2rem
+    margin: 1rem 1.5rem 3rem 1.5rem
 }
 .links a {
-    margin: 1rem;
+    margin: 0.5rem;
 }
 .links a:hover, .attribution a:hover {
     color: white;
